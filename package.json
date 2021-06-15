@@ -1,0 +1,19 @@
+{
+  "name": "lefttrim-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zelzazor/LeftTrim-kata.git"
+  },
+  "author": "Felipe Ramírez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zelzazor/LeftTrim-kata/issues"
+  },
+  "homepage": "https://github.com/Zelzazor/LeftTrim-kata#readme"
+}
